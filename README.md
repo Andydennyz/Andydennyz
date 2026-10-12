@@ -68,14 +68,31 @@ For me, engineering goes beyond making things work. It's about understanding how
 ### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite&perline=8" alt="Frontend technologies"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/>
+  </a>
+  <a href="https://react.dev/" title="React">
+    <img src="https://skillicons.dev/icons?i=react" alt="React"/>
+  </a>
+  <a href="https://vite.dev/" title="Vite">
+    <img src="https://skillicons.dev/icons?i=vite" alt="Vite"/>
+  </a>
 </p>
 
-* HTML5 and CSS3
-* JavaScript (ES6+)
-* TypeScript
-* React
-* Vite
+* [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) and [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (ES6+)
+* [TypeScript](https://www.typescriptlang.org/)
+* [React](https://react.dev/)
+* [Vite](https://vite.dev/)
 * Responsive web design
 * Interactive user interfaces
 * Component-based architecture
@@ -83,13 +100,24 @@ For me, engineering goes beyond making things work. It's about understanding how
 ### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php&perline=8" alt="Backend technologies"/>
+  <a href="https://nodejs.org/" title="Node.js">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/>
+  </a>
+  <a href="https://expressjs.com/" title="Express.js">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js"/>
+  </a>
+  <a href="https://laravel.com/" title="Laravel">
+    <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel"/>
+  </a>
+  <a href="https://www.php.net/" title="PHP">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP"/>
+  </a>
 </p>
 
-* Node.js
-* Express.js
-* Laravel
-* REST API development
+* [Node.js](https://nodejs.org/)
+* [Express.js](https://expressjs.com/)
+* [Laravel](https://laravel.com/)
+* [REST API development](https://developer.mozilla.org/en-US/docs/Glossary/REST)
 * Server-side application logic
 * Authentication and authorization
 * API integrations
@@ -99,11 +127,22 @@ For me, engineering goes beyond making things work. It's about understanding how
 ### 🗄️ Databases & Backend Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase&perline=8" alt="Database and backend platforms"/>
+  <a href="https://www.postgresql.org/" title="PostgreSQL">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/>
+  </a>
+  <a href="https://supabase.com/" title="Supabase">
+    <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase"/>
+  </a>
+  <a href="https://firebase.google.com/" title="Firebase">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase"/>
+  </a>
+  <a href="https://www.convex.dev/" title="Convex">
+    <img src="https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logoColor=white" alt="Convex"/>
+  </a>
 </p>
 
-* PostgreSQL
-* Convex
+* [PostgreSQL](https://www.postgresql.org/)
+* [Convex](https://www.convex.dev/)
 * Relational data modeling
 * Database queries and management
 * Application data synchronization
@@ -130,7 +169,24 @@ I enjoy understanding how individual components fit together to form reliable, m
 ### 🌐 Networking & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,vscode&perline=8" alt="Infrastructure and engineering tools"/>
+  <a href="https://www.linux.org/" title="Linux">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" title="Bash">
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash"/>
+  </a>
+  <a href="https://www.docker.com/" title="Docker">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
+  </a>
+  <a href="https://git-scm.com/" title="Git">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
+  </a>
+  <a href="https://github.com/" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
+  <a href="https://code.visualstudio.com/" title="Visual Studio Code">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code"/>
+  </a>
 </p>
 
 My networking and infrastructure interests include:
@@ -146,7 +202,21 @@ My networking and infrastructure interests include:
 ### 🔐 Linux & Cybersecurity
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kali,ubuntu,debian,linux,bash&perline=8" alt="Linux environments and tools"/>
+  <a href="https://www.kali.org/" title="Kali Linux">
+    <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux"/>
+  </a>
+  <a href="https://ubuntu.com/" title="Ubuntu">
+    <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu"/>
+  </a>
+  <a href="https://www.debian.org/" title="Debian">
+    <img src="https://skillicons.dev/icons?i=debian" alt="Debian"/>
+  </a>
+  <a href="https://www.linux.org/" title="Linux">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" title="Bash">
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash"/>
+  </a>
 </p>
 
 I enjoy exploring Linux systems, command-line utilities, security tools, and the underlying principles of computer networks and operating systems.
@@ -163,15 +233,19 @@ My cybersecurity interests include:
 ### 📈 Algorithmic Trading & Financial Technology
 
 <p>
-  <img src="https://img.shields.io/badge/MQL5-0078D4?style=for-the-badge&logoColor=white" alt="MQL5"/>
-  <img src="https://img.shields.io/badge/Algorithmic_Trading-2E8B57?style=for-the-badge&logoColor=white" alt="Algorithmic Trading"/>
+  <a href="https://www.mql5.com/" title="MQL5">
+    <img src="https://img.shields.io/badge/MQL5-0078D4?style=for-the-badge&logoColor=white" alt="MQL5"/>
+  </a>
+  <a href="https://www.metatrader5.com/" title="MetaTrader 5">
+    <img src="https://img.shields.io/badge/MetaTrader_5-0078D4?style=for-the-badge&logoColor=white" alt="MetaTrader 5"/>
+  </a>
 </p>
 
 I'm interested in the intersection of programming, quantitative analysis, and financial markets.
 
 Areas I explore include:
 
-* MQL5 and automated trading concepts.
+* [MQL5](https://www.mql5.com/) and automated trading concepts.
 * Trading strategy development.
 * Market structure and price action.
 * Support and resistance analysis.
@@ -216,20 +290,43 @@ I enjoy working across the stack to understand how an application functions as a
 ## 🧰 Tools & Development Environment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,docker,npm,postman&perline=8" alt="Development tools"/>
+  <a href="https://git-scm.com/" title="Git">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
+  </a>
+  <a href="https://github.com/" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
+  <a href="https://code.visualstudio.com/" title="Visual Studio Code">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code"/>
+  </a>
+  <a href="https://www.linux.org/" title="Linux">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" title="Bash">
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash"/>
+  </a>
+  <a href="https://www.docker.com/" title="Docker">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
+  </a>
+  <a href="https://www.npmjs.com/" title="npm">
+    <img src="https://skillicons.dev/icons?i=npm" alt="npm"/>
+  </a>
+  <a href="https://www.postman.com/" title="Postman">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman"/>
+  </a>
 </p>
 
 Tools and environments I use or explore include:
 
-* **Visual Studio Code** — Development and debugging.
-* **Git & GitHub** — Version control and project collaboration.
-* **Linux** — Command-line workflows and system exploration.
-* **Kali Linux** — Security research and authorized testing.
-* **Ubuntu** — Linux development and experimentation.
-* **Termux** — Mobile Linux environments and command-line tools.
-* **npm** — JavaScript package management.
-* **Postman** — API development and testing.
-* **Docker** — Containerization and reproducible development environments.
+* **[Visual Studio Code](https://code.visualstudio.com/)** — Development and debugging.
+* **[Git & GitHub](https://github.com/)** — Version control and project collaboration.
+* **[Linux](https://www.linux.org/)** — Command-line workflows and system exploration.
+* **[Kali Linux](https://www.kali.org/)** — Security research and authorized testing.
+* **[Ubuntu](https://ubuntu.com/)** — Linux development and experimentation.
+* **[Termux](https://termux.dev/)** — Mobile Linux environments and command-line tools.
+* **[npm](https://www.npmjs.com/)** — JavaScript package management.
+* **[Postman](https://www.postman.com/)** — API development and testing.
+* **[Docker](https://www.docker.com/)** — Containerization and reproducible development environments.
 
 ---
 
